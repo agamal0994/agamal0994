@@ -18,6 +18,6 @@
 - Spreadsheets and Visualization (Microsoft Excel, Microsoft Power BI, Google Data Studio)
 - Data Warehouse, ETL Process, Machine Learning, Deep Learning, Algorithms, Data Structures, Cloud Computing
 
- ❤️ Keep Moving Forward ❤️
+
 ![GitHub Stats]https://github-readme-stats.vercel.app/api?username=agamal0994&count_private=true&show_icons=true&theme=radical
 
