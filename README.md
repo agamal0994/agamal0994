@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **agamal0994/agamal0994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ## My name is Ahmed Gamal , Jr. Data Scientist
 ✨ About Me ✨
