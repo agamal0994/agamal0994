@@ -19,5 +19,5 @@
 - Data Warehouse, ETL Process, Machine Learning, Deep Learning, Algorithms, Data Structures, Cloud Computing
 
  ❤️ Keep Moving Forward ❤️
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agamal0994 &theme=radical)
-![Top Languages]https://github-readme-stats.vercel.app/api/top-langs/?username=AGAMAL0994&show_icons=true&theme=radical
+![GitHub Stats]https://github-readme-stats.vercel.app/api?username=agamal0994&count_private=true&show_icons=true&theme=radical
+
