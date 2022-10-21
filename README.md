@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Ahmed Gamal , Jr. Data Scientist
+### My name is Ahmed Gamal
 ✨ About Me ✨
 - Creative Mind
 - Solving Puzzles 
@@ -8,7 +8,7 @@
 - Investigation 
 
 ⚡️ Currently ⚡️
-- 🔭 I’m currently looking for Data Scientist / BI Analyst job role 
+- 🔭 I’m currently looking for Data Engineer job role 
 - 🌱 I’m currently learning GCP , Big Data
 - 📫 How to reach me: https://www.linkedin.com/in/agamal0994/
 
