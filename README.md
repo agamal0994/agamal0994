@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-### My name is Ahmed Gamal
+### My name is Ahmed Gamal , currently Data Engineer @Telecom Egypt
 ✨ About Me ✨
 - Creative Mind
 - Solving Puzzles 
 - Catch Patterns 
 - Investigation 
 
-⚡️ Currently ⚡️
-- 🔭 I’m currently looking for Data Engineer job role 
+
+
 - 🌱 I’m currently learning GCP , Big Data
 - 📫 How to reach me: https://www.linkedin.com/in/agamal0994/
 
